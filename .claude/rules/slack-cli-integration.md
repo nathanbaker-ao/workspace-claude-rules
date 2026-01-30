@@ -21,6 +21,8 @@ source ~/.zshrc
 | `planning` | #ao-planning | C08CETC7YS2 | Client updates, Devon |
 | `llm` | #fetch-llm | C08B2ME3YKW | AI/LLM discussions |
 | `issues` | #llm_issues | C08V0EH4S7M | Bug tracking |
+| `mobile` | #asi-one-mobile-app | C0999KNTC7M | Mobile PRs, team discussions (Slack Connect) |
+| `bugs` | #bugs | C06PM372SBT | Reported bugs |
 
 ---
 

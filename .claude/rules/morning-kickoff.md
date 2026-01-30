@@ -131,9 +131,12 @@ Check key channels for overnight activity:
 - `#ao-planning` (C08CETC7YS2) - Devon communications
 - `#fetch-devs` (C08C70B48PJ) - Team discussions, PR requests
 - `#llm_issues` (C08V0EH4S7M) - Issue tracking
-- `#fetchai-ao-internal` () - Atomic Object Internal Team working on FetchAI client work internal convo
-- `#bugs` () - Reported bugs
-- `#asi-one-mobile-app` (C08C70B48PJ) - Team discussions, PR requests
+- `#fetchai-ao-internal` (C08960MC0RG) - Atomic Object Internal Team working on FetchAI client work internal convo
+- `#bugs` (C06PM372SBT) - Reported bugs
+- `#asi-one-mobile-app` (C0999KNTC7M) - Mobile Team discussions, PR requests ( I am tech lead here!!! so things here is really import) - External channel.
+- `#fetch-llm` (C08B2ME3YKW) - FetchAI updates specifically. External chat with external clients.
+
+
 
 
 ---
